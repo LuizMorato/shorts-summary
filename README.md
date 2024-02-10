@@ -5,6 +5,10 @@
 Shorts Summary is a web application for creating summaries of YouTube short videos using Artificial Intelligence to transcribe the video content and generate the summary.
 This project is developed in the Foundations track of the NLW AI edition by [`Rocketseat`](https://www.rocketseat.com.br/). 🚀
 
+# Usage:
+
+- Open [`site`](https://shorts-summary-woad.vercel.app/) and enter a Youtube Shorts URL
+
 # Technologies Used ✅
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html" />
